@@ -24,4 +24,4 @@ def index():
 
 if __name__ == "__main__":
     model = MoodPredictor()
-    app.run(debug=True)
+    app.run(debug=False)
